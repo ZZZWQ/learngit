@@ -6,3 +6,4 @@ i am a blackbird.
 Creating a new branch is quick.
 Git tracks changes.
 i am kali bird.
+东方非方法
